@@ -2,9 +2,15 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN0bzhidHJld3pvaTF4OXV4cG9mdjMyOGNmdmV6Yzd1MWJvNnI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOFB74VjN0OqvRmJGK/giphy.gif" height="100"/>
 </div>
 
-# About
-
+<h1>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> my name is Louis.
+</h1>
+<p>
+Thanks for checking out my profile
+	
 I’m an aspiring junior software developer, currently working my way through the School of Code's 18th Bootcamp!
+</p>
 
 ## Social media
 
@@ -13,6 +19,7 @@ I’m an aspiring junior software developer, currently working my way through th
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=l-brooking&style=flat-square&color=blue" alt=""/>
 
 ## Tech stack
 
