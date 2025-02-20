@@ -1,12 +1,23 @@
-# About me
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN0bzhidHJld3pvaTF4OXV4cG9mdjMyOGNmdmV6Yzd1MWJvNnI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOFB74VjN0OqvRmJGK/giphy.gif" height="100"/>
+</div>
+
+# About
 
 I’m an aspiring junior software developer, currently working my way through the School of Code's 18th Bootcamp!
 
 ## Social media
 
-[LinkedIn](www.linkedin.com/in/louis-brookling-76362b312)
+<div id="badge">
+  <a href="https://www.linkedin.com/in/l-brookling/">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ## Tech stack
+
+
+
 
 ~ Size relative to competancy ~
 <div align="center">
