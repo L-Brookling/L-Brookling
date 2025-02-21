@@ -8,9 +8,12 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=l-brooking&style=flat-square&color=blue" alt=""/>
 <p>
-Thanks for checking out my profile
+😃 Thanks for checking out my profile
 	
 I’m an aspiring junior software developer, currently working my way through the School of Code's 18th Bootcamp!
+
+<li>🗺️ Based in Wiltshire, UK</li>
+<li>🧠 Currently advancing my Next.js and SQL knowledge</li>
 </p>
 
 ## 📫 How to reach me:
