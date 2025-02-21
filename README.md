@@ -45,6 +45,7 @@ I’m an aspiring junior software developer, currently working my way through th
 </div>
 
 ### 📘 Top languages:
+<p>~ Will update repos soon! ~</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-brookling&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
