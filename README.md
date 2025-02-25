@@ -44,11 +44,6 @@ I’m an aspiring junior software developer, currently working my way through th
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 📘 Top languages:
-<p>~ Will update repos soon! ~</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-brookling&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## :hammer_and_wrench: Other tools:
 
 <div>
